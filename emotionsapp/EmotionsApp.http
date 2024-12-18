@@ -1,0 +1,6 @@
+@EmotionsApp_HostAddress = http://localhost:5222
+
+GET {{EmotionsApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
