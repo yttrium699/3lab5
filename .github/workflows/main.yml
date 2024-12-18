@@ -24,4 +24,4 @@ jobs:
         working-directory: .
         run: |
           ls -l
-          docker build -f emotionsapi/Dockerfile . -t emotionsapi
+          docker build -f emotionsapp/Dockerfile . -t emotionsapp
