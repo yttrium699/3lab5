@@ -1,4 +1,4 @@
-﻿using EmotionsApp.Domain.Interfaces;
+using EmotionsApp.Domain.Interfaces;
 using EmotionsApp.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
